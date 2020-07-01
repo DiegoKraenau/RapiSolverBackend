@@ -1,0 +1,155 @@
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Test.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Test.pdb
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Castle.Core.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\MediatR.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Moq.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\RapiSolver.Core.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\RapiSolver.Infrastructure.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\RapiSolver.Core.pdb
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\RapiSolver.Infrastructure.pdb
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Castle.Core.xml
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\MediatR.xml
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Moq.xml
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\obj\Debug\Rapisolver.Test.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\obj\Debug\Rapisolver.Test.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\obj\Debug\Rapisolver.Test.csproj.CopyComplete
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\obj\Debug\Test.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\obj\Debug\Test.pdb
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Test.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Test.pdb
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Castle.Core.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\MediatR.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Moq.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\RapiSolver.Core.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\RapiSolver.Infrastructure.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\RapiSolver.Core.pdb
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\RapiSolver.Infrastructure.pdb
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Castle.Core.xml
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\MediatR.xml
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Moq.xml
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\obj\Debug\Rapisolver.Test.csprojAssemblyReference.cache
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\obj\Debug\Rapisolver.Test.csproj.CoreCompileInputs.cache
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\obj\Debug\Rapisolver.Test.csproj.CopyComplete
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\obj\Debug\Test.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\obj\Debug\Test.pdb
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Test.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Test.pdb
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Castle.Core.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\MediatR.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Moq.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\RapiSolver.Core.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\RapiSolver.Infrastructure.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\RapiSolver.Core.pdb
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\RapiSolver.Infrastructure.pdb
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Castle.Core.xml
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\MediatR.xml
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Moq.xml
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\obj\Debug\Rapisolver.Test.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\obj\Debug\Rapisolver.Test.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\obj\Debug\Rapisolver.Test.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\obj\Debug\Test.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\obj\Debug\Test.pdb
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Test.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Test.pdb
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Castle.Core.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\MediatR.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Moq.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\RapiSolver.Core.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\RapiSolver.Infrastructure.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\RapiSolver.Core.pdb
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\RapiSolver.Infrastructure.pdb
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Castle.Core.xml
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\MediatR.xml
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Moq.xml
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\obj\Debug\Rapisolver.Test.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\obj\Debug\Rapisolver.Test.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\obj\Debug\Rapisolver.Test.csproj.CopyComplete
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\obj\Debug\Test.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\obj\Debug\Test.pdb
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Test.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Test.pdb
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Castle.Core.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\MediatR.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Moq.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\RapiSolver.Core.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\RapiSolver.Infrastructure.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\RapiSolver.Core.pdb
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\RapiSolver.Infrastructure.pdb
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Castle.Core.xml
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\MediatR.xml
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\Moq.xml
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\obj\Debug\Rapisolver.Test.csprojAssemblyReference.cache
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\obj\Debug\Rapisolver.Test.csproj.CoreCompileInputs.cache
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\obj\Debug\Rapisolver.Test.csproj.CopyComplete
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\obj\Debug\Test.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\Test\obj\Debug\Test.pdb

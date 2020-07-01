@@ -1,0 +1,556 @@
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.AssemblyInfo.cs
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.exe
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.deps.json
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.runtimeconfig.json
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.runtimeconfig.dev.json
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.pdb
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Core.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Infrastructure.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Core.pdb
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Infrastructure.pdb
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.RazorTargetAssemblyInfo.cache
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.csproj.CopyComplete
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\staticwebassets\RapiSolver.Api.StaticWebAssets.Manifest.cache
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\staticwebassets\RapiSolver.Api.StaticWebAssets.xml
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.pdb
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.genruntimeconfig.cache
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.xml
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.xml
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.exe
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.deps.json
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.runtimeconfig.json
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.runtimeconfig.dev.json
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.pdb
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.xml
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Core.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Infrastructure.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Core.pdb
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Infrastructure.pdb
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.AssemblyInfo.cs
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.RazorTargetAssemblyInfo.cache
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.csproj.CopyComplete
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\staticwebassets\RapiSolver.Api.StaticWebAssets.Manifest.cache
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\staticwebassets\RapiSolver.Api.StaticWebAssets.xml
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.xml
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.pdb
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.genruntimeconfig.cache
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.exe
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.deps.json
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.runtimeconfig.json
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.runtimeconfig.dev.json
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.pdb
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.xml
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Core.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Infrastructure.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Core.pdb
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Infrastructure.pdb
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.AssemblyInfo.cs
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.RazorTargetAssemblyInfo.cache
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.csproj.CopyComplete
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\staticwebassets\RapiSolver.Api.StaticWebAssets.Manifest.cache
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\staticwebassets\RapiSolver.Api.StaticWebAssets.xml
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.xml
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.pdb
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.genruntimeconfig.cache
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.exe
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.deps.json
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.runtimeconfig.json
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.runtimeconfig.dev.json
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.pdb
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.xml
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Core.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Infrastructure.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Core.pdb
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Infrastructure.pdb
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.csprojAssemblyReference.cache
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.csproj.CoreCompileInputs.cache
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.AssemblyInfoInputs.cache
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.AssemblyInfo.cs
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.csproj.CopyComplete
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\staticwebassets\RapiSolver.Api.StaticWebAssets.Manifest.cache
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\staticwebassets\RapiSolver.Api.StaticWebAssets.xml
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.xml
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.pdb
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.genruntimeconfig.cache
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\MediatR.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Core.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Infrastructure.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Core.pdb
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Infrastructure.pdb
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.csprojAssemblyReference.cache
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.csproj.CoreCompileInputs.cache
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.AssemblyInfoInputs.cache
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.AssemblyInfo.cs
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.RazorTargetAssemblyInfo.cache
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.csproj.CopyComplete
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.xml
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.pdb
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.exe
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.deps.json
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.runtimeconfig.json
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.runtimeconfig.dev.json
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.pdb
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.xml
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Core.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Infrastructure.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Core.pdb
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Infrastructure.pdb
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.AssemblyInfo.cs
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.csproj.CopyComplete
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\staticwebassets\RapiSolver.Api.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\staticwebassets\RapiSolver.Api.StaticWebAssets.xml
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.xml
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.pdb
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.genruntimeconfig.cache
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.exe
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.deps.json
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.runtimeconfig.json
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.runtimeconfig.dev.json
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.pdb
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.xml
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Core.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Infrastructure.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Core.pdb
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Infrastructure.pdb
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.csprojAssemblyReference.cache
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.AssemblyInfoInputs.cache
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.AssemblyInfo.cs
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.csproj.CoreCompileInputs.cache
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.RazorTargetAssemblyInfo.cache
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.csproj.CopyComplete
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\staticwebassets\RapiSolver.Api.StaticWebAssets.Manifest.cache
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\staticwebassets\RapiSolver.Api.StaticWebAssets.xml
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.xml
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.pdb
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.exe
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.deps.json
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.runtimeconfig.dev.json
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.pdb
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.xml
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Core.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Infrastructure.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Core.pdb
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Infrastructure.pdb
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.RazorTargetAssemblyInfo.cache
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\staticwebassets\RapiSolver.Api.StaticWebAssets.Manifest.cache
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\staticwebassets\RapiSolver.Api.StaticWebAssets.xml
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.xml
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.pdb
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.exe
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.deps.json
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.runtimeconfig.json
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.runtimeconfig.dev.json
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.pdb
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Api.xml
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Core.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Infrastructure.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Core.pdb
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\bin\Debug\netcoreapp3.1\RapiSolver.Infrastructure.pdb
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.AssemblyInfo.cs
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.RazorTargetAssemblyInfo.cache
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.csproj.CopyComplete
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\staticwebassets\RapiSolver.Api.StaticWebAssets.Manifest.cache
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\staticwebassets\RapiSolver.Api.StaticWebAssets.xml
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.xml
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.pdb
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Api\obj\Debug\netcoreapp3.1\RapiSolver.Api.genruntimeconfig.cache

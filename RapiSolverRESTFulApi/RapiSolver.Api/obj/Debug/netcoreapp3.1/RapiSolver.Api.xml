@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RapiSolver.Api</name>
+    </assembly>
+    <members>
+        <member name="M:RapiSolver.Api.Controllers.RecommendationController.ShowRecommendations">
+            <summary>
+            It allows  to obtain all recommendation that were added
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.RecommendationController.RegisterRecommendation(RapiSolver.Core.Entities.Recommendation)">
+            <summary>
+            It allows to add a recommendation
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.RecommendationController.SearchRecommendation(System.Int32)">
+            <summary>
+            It allows to search a recommendation by their corresponding Id
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.RecommendationController.ShowRecommendationsBySupplier(System.Int32)">
+            <summary>
+            It allows to obtain all recommendation by Supplier
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.ReservationController.ShowReservations">
+            <summary>
+            It allows  to obtain all reservation that were added
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.ReservationController.RegisterReservation(RapiSolver.Core.Entities.Reservation)">
+            <summary>
+            It allows to add a reservation
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.ReservationController.SearchReservation(System.Int32)">
+            <summary>
+            It allows to search a reservation by their corresponding Id
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.ReservationController.ShowReservationsByUser(System.Int32)">
+            <summary>
+            It allows to obtain all reservation by User
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.ReservationController.UnregisterReservation(System.Int32)">
+            <summary>
+            It allows  to delete  a reservation by their corresponding Id
+            </summary>
+            <returns></returns> 
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.RolController.ShowRoles">
+            <summary>
+            It allows to obtain all the roles 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.RolController.UnregisterRol(System.Int32)">
+            <summary>
+            It allows  to delete  a role by their corresponding Id
+            </summary>
+            <returns></returns>       
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.RolController.SearchRol(System.Int32)">
+            <summary>
+            It allows  to search for a role by their corresponding Id
+            </summary>
+            <returns></returns>       
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.RolController.RegisterRol(RapiSolver.Core.Entities.Rol)">
+            <summary>
+            It allows to add a role
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.ServiceCategoryController.ShowCategories">
+            <summary>
+            It allows to obtain all categories that were added
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.ServiceCategoryController.SearchCategory(System.Int32)">
+            <summary>
+            It allows to obtain a category by Category id
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.ServiceCategoryController.RegisterCategory(RapiSolver.Core.Entities.ServiceCategory)">
+            <summary>
+            It allows to add a category
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.ServiceController.RegisterService(RapiSolver.Core.Entities.Servicio)">
+            <summary>
+            It allows to add a service
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.ServiceController.UnregisterService(System.Int32)">
+            <summary>
+            It allows to delete the service by their ID
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.ServiceController.UpdateService(RapiSolver.Core.DTOs.ServiceDTO)">
+            <summary>
+            It allows to update the service by their ID
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.ServiceController.ShowServices">
+            <summary>
+            It allows  to obtain all  services that were added
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.ServiceController.SearchService(System.Int32)">
+            <summary>
+            It allows to search a service by their corresponding Id
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.ServiceController.ShowServicesByCategory(System.String)">
+            <summary>
+            It allows to obtain all  service by name of the category
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.ServiceController.ShowServicesBySupplier(System.Int32)">
+            <summary>
+            It allows to obtain all service by Supplier
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.ServiceController.ShowServicesByUser(System.Int32)">
+            <summary>
+            It allows to obtain all service by user
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.ServiceDetailsController.ShowServiceDetails">
+            <summary>
+            It allows  to obtain all  service details from a supplier with a service
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.ServiceDetailsController.RegisterServiceDetail(RapiSolver.Core.DTOs.ServiceDetailsDTO)">
+            <summary>
+            It allows to add a service detail  between a supplier with a service
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.ServiceDetailsController.SearchServiceDetails(System.Int32)">
+            <summary>
+            It allows to obtain a service detail view model between a supplier with a service by its corresponding Id
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.ServiceDetailsController.ShowServicesByName(System.String)">
+            <summary>
+            It allows to obtain all  service details by a name of the service
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.ServiceDetailsController.ShowServicesByLowCost">
+            <summary>
+            It allows to obtain all  service details by low Cost
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.ServiceDetailsController.Get4(System.String)">
+            <summary>
+            It allows to obtain all  service details by low Cost and name
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.ServiceDetailsController.ShowLastServicesDetails">
+            <summary>
+            It allows to obtain only the last  3 service details
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.SupplierController.ShowSuppliers">
+            <summary>
+            It allows to obtain all suppliers that were added
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.SupplierController.SearchSupplier(System.Int32)">
+            <summary>
+            It allows to obtain a supplier by Supplier id
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.SupplierController.RegisterSupplier(RapiSolver.Core.Entities.Supplier)">
+            <summary>
+            It allows to add a supplier
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.SupplierController.UpdateSupplier(RapiSolver.Core.Entities.Supplier)">
+            <summary>
+            It allows to update the supplier
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.SupplierController.ShowSuppliersBySurname(System.String)">
+            <summary>
+            It allows to obtain all  suppliers by last name
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.SupplierController.SearchSupplierByUserId(System.Int32)">
+            <summary>
+            It allows to obtain a supplier by User id
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.SupplierController.SearchOriginalSupplierByUserId(System.Int32)">
+            <summary>
+            It allows to obtain a original supplier by User id
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.UserController.ShowUsers">
+            <summary>
+            It allows  to obtain all  users that were added
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.UserController.RegisterUser(RapiSolver.Core.Entities.Usuario)">
+            <summary>
+            It allows to add a user
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.UserController.SearchUser(System.Int32)">
+            <summary>
+            It allows to search a user by their corresponding Id
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RapiSolver.Api.Controllers.UserController.UpdateRole(System.Int32)">
+            <summary>
+            It allows to update the role of  a user by their user ID
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

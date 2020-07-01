@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>RapiSolver.Infrastructure</id>
+    <version>1.0.0</version>
+    <authors>RapiSolver.Infrastructure</authors>
+    <owners>RapiSolver.Infrastructure</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="RapiSolver.Core" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Npgsql.EntityFrameworkCore.PostgreSQL" version="3.1.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Infrastructure\bin\Debug\netstandard2.0\RapiSolver.Infrastructure.dll" target="lib\netstandard2.0\RapiSolver.Infrastructure.dll" />
+  </files>
+</package>

@@ -1,0 +1,81 @@
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.AssemblyInfo.cs
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\bin\Debug\netstandard2.0\RapiSolver.Core.deps.json
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\bin\Debug\netstandard2.0\RapiSolver.Core.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\bin\Debug\netstandard2.0\RapiSolver.Core.pdb
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.dll
+C:\Users\diego\Desktop\SeptimoCiclo\ArquitecturaSoftware\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.pdb
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\bin\Debug\netstandard2.0\RapiSolver.Core.deps.json
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\bin\Debug\netstandard2.0\RapiSolver.Core.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\bin\Debug\netstandard2.0\RapiSolver.Core.pdb
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.AssemblyInfo.cs
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.dll
+C:\Users\diego\Desktop\RESTFulApiRapiSolver\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.pdb
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\bin\Debug\netstandard2.0\RapiSolver.Core.deps.json
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\bin\Debug\netstandard2.0\RapiSolver.Core.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\bin\Debug\netstandard2.0\RapiSolver.Core.pdb
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.AssemblyInfo.cs
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.dll
+C:\Users\diego\Desktop\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.pdb
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\bin\Debug\netstandard2.0\RapiSolver.Core.deps.json
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\bin\Debug\netstandard2.0\RapiSolver.Core.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\bin\Debug\netstandard2.0\RapiSolver.Core.pdb
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.csprojAssemblyReference.cache
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.csproj.CoreCompileInputs.cache
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.AssemblyInfoInputs.cache
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.AssemblyInfo.cs
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.dll
+C:\Users\Intel\Desktop\TF ARQUI\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.pdb
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\bin\Debug\netstandard2.0\RapiSolver.Core.deps.json
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\bin\Debug\netstandard2.0\RapiSolver.Core.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\bin\Debug\netstandard2.0\RapiSolver.Core.pdb
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.csprojAssemblyReference.cache
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.AssemblyInfoInputs.cache
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.AssemblyInfo.cs
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.csproj.CoreCompileInputs.cache
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.dll
+C:\Users\0l0\Desktop\OneDrive\Documentos\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.pdb
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\bin\Debug\netstandard2.0\RapiSolver.Core.deps.json
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\bin\Debug\netstandard2.0\RapiSolver.Core.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\bin\Debug\netstandard2.0\RapiSolver.Core.pdb
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.dll
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.pdb
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\bin\Debug\netstandard2.0\RapiSolver.Core.deps.json
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\bin\Debug\netstandard2.0\RapiSolver.Core.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\bin\Debug\netstandard2.0\RapiSolver.Core.pdb
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.csprojAssemblyReference.cache
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.csproj.CoreCompileInputs.cache
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.AssemblyInfoInputs.cache
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.AssemblyInfo.cs
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.dll
+D:\Universidad\CICLO-7\Fundamentos de Arquitectura de Software\TF-CODE\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.pdb
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\bin\Debug\netstandard2.0\RapiSolver.Core.deps.json
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\bin\Debug\netstandard2.0\RapiSolver.Core.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\bin\Debug\netstandard2.0\RapiSolver.Core.pdb
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.dll
+C:\Users\User\Desktop\Final\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.pdb
+C:\Users\USUARIO\Desktop\Git\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\bin\Debug\netstandard2.0\RapiSolver.Core.deps.json
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\bin\Debug\netstandard2.0\RapiSolver.Core.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\bin\Debug\netstandard2.0\RapiSolver.Core.pdb
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.AssemblyInfo.cs
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.dll
+C:\Users\diego\Desktop\pruebaza\FAS-2020-1-SI657-WV71-Grupo2-Backend\TrabajoFinalArqui\RapiSolverRESTFulApi\RapiSolver.Core\obj\Debug\netstandard2.0\RapiSolver.Core.pdb
